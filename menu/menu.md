@@ -41,6 +41,7 @@
 	- 14.2 Cascade 调度器
 
 
---------
-Copyright © 2007-2013 Concurrent, Inc. | Big Data Time 译
+
+----------------------------------------------------------------------------------------
+Copyright © 2007-2013 Concurrent, Inc. | Big Data Time 译 | 下一页: 第一章 关于Cascading
 
