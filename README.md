@@ -1,4 +1,18 @@
 cascading-userguide-cn
 ======================
 
-http://docs.cascading.org/cascading/2.0/userguide/pdf/userguide.pdf
+Cascading 用户指南中文版
+
+Contributors
+------------
+* [Hao](http://github.com/haoch)
+* [Jack](http://github.com/jackode)
+* [Xiaodong](http://github.com/yxdong)
+
+Plan
+----
+To be defined
+
+
+BigDataTime
+
