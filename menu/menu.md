@@ -1,14 +1,5 @@
-
-Cascading 2 用户指南
-===================
-
-
-<center>
-<img src="https://1.gravatar.com/avatar/9a89e34778d06647029ac306fe84580f?d=https%3A%2F%2Fidenticons.github.com%2F8bb527c0d8b060a5d792d332cd88ab87.png&s=420" height="120px"/>
-</center>
-
 目录
----
+====
 - 第一章 关于Cascading
 	
 	- 1.1 [什么是Cascading]()
