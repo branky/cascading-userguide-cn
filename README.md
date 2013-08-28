@@ -15,6 +15,7 @@
 除特别声明外，本套教程中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
 
 ###参考资料
-- [《Cascading 2 User Guide》](http://docs.cascading.org/cascading/2.0/userguide/pdf/userguide.pdf)
+- [Cascading Document](http://www.cascading.org/documentation/)
 
+-----------
 BigDataTime
