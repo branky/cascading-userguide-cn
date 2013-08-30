@@ -15,6 +15,7 @@
 - [Yang, Xiaodong](http://github.com/yxdong)
 
 ###授权许可
+![CC BY-SA 3.0 License](http://i.creativecommons.org/l/by-nc-nd/3.0/80x15.png)
 除特别声明外，本套教程中的内容使用CC BY-SA 3.0 License（创作共用 署名-相同方式共享3.0许可协议）授权，代码遵循BSD 3-Clause License（3项条款的BSD许可协议）。
 
 ###参考资料
