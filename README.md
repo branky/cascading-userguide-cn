@@ -65,6 +65,6 @@
 
 
 ---------------------------------------------------------
-Copyright © 2007-2013 Concurrent, Inc. | Big Data Time 译
+Big Data Time 译
 
 
