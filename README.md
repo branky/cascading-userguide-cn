@@ -1,4 +1,4 @@
-《[Cascading 用户指南中文版](BigDataTime/cascading-userguide-cn)》
+《[Cascading 用户指南中文版](menu/README.md)》
 ============================
 <!--
 <img src="https://1.gravatar.com/avatar/9a89e34778d06647029ac306fe84580f?d=https%3A%2F%2Fidenticons.github.com%2F8bb527c0d8b060a5d792d332cd88ab87.png&s=420" height="120px"/>
